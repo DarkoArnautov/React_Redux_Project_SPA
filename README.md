@@ -1,11 +1,15 @@
-# React_Redux_SPA_Start_Template
+# React-Redux-SPA
 
-Personnel portfolio website
+A simple React + Redux + SPA implementation. 
 
--  npm install
+## Running
 
--  npm start
+ npm install 
 
--  npm run build
+ npm start 
 
+ localhost:3003
 
+## Production Build
+
+ npm build
